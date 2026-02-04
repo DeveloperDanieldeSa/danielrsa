@@ -1,2 +1,24 @@
-# danielrsa
+# Danielrsa
 Desenvolvedor de software com foco em aplicações web e mobile. Experiência com Flutter, .NET, Python e arquitetura de sistemas.
+
+
+## 👋 Olá, eu sou Daniel Sá
+
+Desenvolvedor de software com foco em aplicações web e mobile.
+Experiência com Flutter, .NET, Python e arquitetura de sistemas.
+
+### 🚀 Tecnologias
+- Flutter & Dart
+- C# / .NET / ASP.NET
+- Python
+- SQL & Power BI
+
+### 🧠 O que eu valorizo
+- Código limpo e legível
+- Boas práticas e arquitetura
+- Aprendizado contínuo
+
+### 📫 Contato
+- LinkedIn: https://linkedin.com/in/...
+- Email: ...
+
