@@ -1,4 +1,4 @@
-# Danielrsa
+# Daniel de Sá -
 Desenvolvedor de software com foco em aplicações web e mobile. Experiência com Flutter, .NET, Python e arquitetura de sistemas.
 
 
@@ -19,6 +19,6 @@ Experiência com Flutter, .NET, Python e arquitetura de sistemas.
 - Aprendizado contínuo
 
 ### 📫 Contato
-- LinkedIn: https://linkedin.com/in/...
-- Email: ...
+- LinkedIn: [](https://www.linkedin.com/in/danielrsa/)
+- Email: danieldesa_developer@outlook.com
 
