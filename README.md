@@ -17,6 +17,6 @@ Experiência com Flutter, .NET, Python e arquitetura de sistemas.
 - Aprendizado contínuo
 
 ### 📫 Contato
-- LinkedIn: [](https://www.linkedin.com/in/danielrsa/)
+- LinkedIn: https://www.linkedin.com/in/danielrsa/
 - Email: danieldesa_developer@outlook.com
 
