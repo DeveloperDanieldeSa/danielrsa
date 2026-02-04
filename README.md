@@ -1,8 +1,6 @@
 # Daniel de Sá -
-Desenvolvedor de software com foco em aplicações web e mobile. Experiência com Flutter, .NET, Python e arquitetura de sistemas.
 
-
-## 👋 Olá, eu sou Daniel Sá
+## 👋 Olá,  sou 
 
 Desenvolvedor de software com foco em aplicações web e mobile.
 Experiência com Flutter, .NET, Python e arquitetura de sistemas.
